@@ -1,5 +1,20 @@
 # portailWorkflow
 
+PRESENTATION DU PROJET
+L'objectif de ce projet est de créer un portail de générations des workflows de
+gestion. Le portail doit permettre de créer et personnaliser plus facilement des
+applications destinées à être utilisées par les clients de l'entreprise.
+
+Réalisation d’un portail en html 5 avec utilisation d'une bases de données,
+moteur de recherche interne au portail,
+système d'authentifications,
+un système de gestion électronique des documents (GED)
+un système d'administration du portail avec paramétrage possible,
+un système de monitoring des serveurs,
+un système de visualisation et de consultation des logs applicatifs,
+un système de reporting et de génération des graphes
+
+
 This application was generated using JHipster 6.2.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.2.0](https://www.jhipster.tech/documentation-archive/v6.2.0).
 
 This is a "microservice" application intended to be part of a microservice architecture, please refer to the [Doing microservices with JHipster][] page of the documentation for more information.
